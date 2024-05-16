@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/9QY6FQt2/aaaaaaaaaaaaaa-removebg-preview-1.png' border='0' alt='aaaaaaaaaaaaaa-removebg-preview-1' width='300'/></a>
+  <img src='https://i.postimg.cc/9QY6FQt2/aaaaaaaaaaaaaa-removebg-preview-1.png' border='0' alt='aaaaaaaaaaaaaa-removebg-preview-1' width='300'/>
 </h1>
 <h4 align="center">A megumin themed 40% (but not really) keyboard.</h4>
 <p align="center">
-  <a href='https://postimg.cc/Cz613HcM' target='_blank'><img src='https://i.postimg.cc/XYnCysF5/Spell-Test-3.png' border='0' alt='Spell-Test-3' width='850'/></a>
+  <img src='https://i.postimg.cc/XYnCysF5/Spell-Test-3.png' border='0' alt='Spell-Test-3' width='850'/>
 </p>
 
 
