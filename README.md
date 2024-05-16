@@ -26,3 +26,6 @@ This keyboard has not been physically made yet, however at time of writing the b
   * TODO: put text here.
 * Case Feet
   * spell uses [SKUF feet](https://github.com/Zambumon/SKUF).
+
+## Special Thanks 
+While I say me and binb0y designed this, it took a lot of help from the community to get here. I'd like to extend my thanks to chill for his invaluable PCB advice. zhol and paaradiso of mkh for general design advice for everything from pcbs to the specifics of bottom case engravings. Cute for making amazing renders, and everyone else in MechKeys who contributed their opinions and for dealing with our constant pestering over the 1.5 years it took for the project to get here.
