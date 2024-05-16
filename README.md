@@ -1,10 +1,11 @@
 <h1 align="center">
   <br>
-  <img src="https://cdn.discordapp.com/attachments/975229529998114828/1240705294737211562/aaaaaaaaaaaaaa-removebg-preview1.png?ex=66478859&is=664636d9&hm=b0f1287c5548f766e4d710a02ed7f4440d8d62b66a0620831d8885b1f5cd5a72" alt="Overleaf" width="300">
+  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/9QY6FQt2/aaaaaaaaaaaaaa-removebg-preview-1.png' border='0' alt='aaaaaaaaaaaaaa-removebg-preview-1' width='300'/></a>
 </h1>
 <h4 align="center">A megumin themed 40% (but not really) keyboard.</h4>
-
-<img src="https://cdn.discordapp.com/attachments/1240512099898364006/1240526276901470299/Spell_Test_3.png?ex=66478a60&is=664638e0&hm=d7ba85f3189b55af97980aa42eab1ec27846e3ef8136995b813bed487e0a3098&" alt="exploded pic of spell">
+<p align="center">
+  <a href='https://postimg.cc/Cz613HcM' target='_blank'><img src='https://i.postimg.cc/XYnCysF5/Spell-Test-3.png' border='0' alt='Spell-Test-3' width='850'/></a>
+</p>
 
 
 ## Intro
