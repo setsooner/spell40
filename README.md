@@ -18,7 +18,7 @@ This keyboard has not been physically made yet, however at time of writing the b
   * spell is designed to use any C series daughterboard, but the 3D model of [this](https://github.com/Unified-Daughterboard/UDB-C-JSH) was what I used while modeling.
 * Mounting
   * spell mounts with either 9 GEON tadpoles, or with an o-ring. O-ring specs are 3.5mm CS x 200m ID. O-ring has yet to be tested, but it should fit by my calculations. 
-  * [Tadpoles]([https://geon.works/pages/tadpole-files](https://geon.works/products/tadpole))
+  * [Tadpoles](https://geon.works/products/tadpole)
   * [Where we're getting our o-ring](https://www.polymax.co.uk/o-rings/rubber-silicone-o-rings/)
 * Screws
   * Case screws are M3x10mm, daughterboard screws are M2x4mm.
