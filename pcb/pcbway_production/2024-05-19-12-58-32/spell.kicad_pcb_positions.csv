@@ -1,0 +1,184 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+330.4,-55.75,180.0,top,,,,,tht,True
+330.4,-50.2,0.0,top,,,,,tht,True
+330.360001,-50.76,0.0,top,,,,,tht,True
+330.410001,-56.320001,180.0,top,,,,,tht,True
+329.320001,-50.750001,0.0,top,,,,,tht,True
+329.360002,-55.740001,180.0,top,,,,,tht,True
+329.840001,-50.770001,0.0,top,,,,,tht,True
+329.88,-55.730001,180.0,top,,,,,tht,True
+335.160041,-70.189958,0.0,bottom,C1,,C_0402_1005Metric,100n,smt,True
+338.747705,-55.081732,180.0,bottom,C10,,C_0402_1005Metric,1u,smt,True
+336.91,-50.41,0.0,bottom,C2,,C_0402_1005Metric,1u,smt,True
+332.910328,-71.397341,0.0,bottom,C3,,C_0402_1005Metric,1u,smt,True
+338.72,-56.23,180.0,bottom,C4,,C_0402_1005Metric,4.7u,smt,True
+340.537901,-66.297901,90.0,bottom,C5,,C_0402_1005Metric,100n,smt,True
+332.91,-70.218484,0.0,bottom,C6,,C_0402_1005Metric,100n,smt,True
+338.720002,-57.3048,180.0,bottom,C7,,C_0402_1005Metric,100n,smt,True
+327.980002,-60.270001,180.0,bottom,C8,,C_0402_1005Metric,100n,smt,True
+327.950884,-59.166912,180.0,bottom,C9,,C_0402_1005Metric,10n,smt,True
+49.468914,-37.61875,90.0,bottom,D1,,D_SOD-123,D,smt,True
+235.206414,-37.61875,90.0,bottom,D10,,D_SOD-123,D,smt,True
+254.256414,-37.61875,90.0,bottom,D11,,D_SOD-123,D,smt,True
+273.306414,-37.61875,90.0,bottom,D12,,D_SOD-123,D,smt,True
+292.356414,-37.61875,90.0,bottom,D13,,D_SOD-123,D,smt,True
+307.378914,-41.53375,90.0,bottom,D14,,D_SOD-123,D,smt,True
+328.016414,-41.53375,90.0,bottom,D15,,D_SOD-123,D,smt,True
+354.268914,-37.61875,90.0,bottom,D16,,D_SOD-123,D,smt,True
+373.318914,-37.61875,90.0,bottom,D17,,D_SOD-123,D,smt,True
+388.14375,-37.30625,90.0,bottom,D18,,D_SOD-123,D,smt,True
+48.616414,-49.575,-90.0,bottom,D19,,D_SOD-123,D,smt,True
+68.518914,-37.61875,90.0,bottom,D2,,D_SOD-123,D,smt,True
+67.666414,-49.575,-90.0,bottom,D20,,D_SOD-123,D,smt,True
+98.622664,-49.575,-90.0,bottom,D21,,D_SOD-123,D,smt,True
+124.816414,-49.575,-90.0,bottom,D22,,D_SOD-123,D,smt,True
+143.866414,-49.575,-90.0,bottom,D23,,D_SOD-123,D,smt,True
+162.916414,-49.575,-90.0,bottom,D24,,D_SOD-123,D,smt,True
+181.966414,-49.575,-90.0,bottom,D25,,D_SOD-123,D,smt,True
+201.016414,-49.575,-90.0,bottom,D26,,D_SOD-123,D,smt,True
+220.066414,-49.575,-90.0,bottom,D27,,D_SOD-123,D,smt,True
+239.116414,-49.575,-90.0,bottom,D28,,D_SOD-123,D,smt,True
+258.166414,-49.575,-90.0,bottom,D29,,D_SOD-123,D,smt,True
+97.093914,-37.61875,90.0,bottom,D3,,D_SOD-123,D,smt,True
+277.216414,-49.575,-90.0,bottom,D30,,D_SOD-123,D,smt,True
+296.266414,-49.575,-90.0,bottom,D31,,D_SOD-123,D,smt,True
+322.460164,-49.575,-90.0,bottom,D32,,D_SOD-123,D,smt,True
+353.416414,-49.575,-90.0,bottom,D33,,D_SOD-123,D,smt,True
+372.466414,-49.575,-90.0,bottom,D34,,D_SOD-123,D,smt,True
+383.38125,-49.575,-90.0,bottom,D35,,D_SOD-123,D,smt,True
+47.028914,-79.63375,90.0,bottom,D36,,D_SOD-123,D,smt,True
+66.078914,-79.63375,90.0,bottom,D37,,D_SOD-123,D,smt,True
+101.797664,-79.63375,90.0,bottom,D38,,D_SOD-123,D,smt,True
+132.753914,-79.63375,90.0,bottom,D39,,D_SOD-123,D,smt,True
+120.906414,-37.61875,90.0,bottom,D4,,D_SOD-123,D,smt,True
+151.803914,-79.69625,90.0,bottom,D40,,D_SOD-123,D,smt,True
+170.853914,-79.63375,90.0,bottom,D41,,D_SOD-123,D,smt,True
+189.903914,-79.63375,90.0,bottom,D42,,D_SOD-123,D,smt,True
+208.953914,-79.63375,90.0,bottom,D43,,D_SOD-123,D,smt,True
+228.003914,-79.63375,90.0,bottom,D44,,D_SOD-123,D,smt,True
+247.053914,-79.63375,90.0,bottom,D45,,D_SOD-123,D,smt,True
+266.103914,-79.63375,90.0,bottom,D46,,D_SOD-123,D,smt,True
+285.153914,-79.63375,90.0,bottom,D47,,D_SOD-123,D,smt,True
+304.203914,-79.63375,90.0,bottom,D48,,D_SOD-123,D,smt,True
+325.635164,-79.63375,90.0,bottom,D49,,D_SOD-123,D,smt,True
+139.956414,-37.61875,90.0,bottom,D5,,D_SOD-123,D,smt,True
+351.828914,-79.63375,90.0,bottom,D51,,D_SOD-123,D,smt,True
+370.878914,-79.63375,90.0,bottom,D52,,D_SOD-123,D,smt,True
+380.20625,-79.63375,90.0,bottom,D53,,D_SOD-123,D,smt,True
+47.028914,-98.68375,90.0,bottom,D54,,D_SOD-123,D,smt,True
+66.078914,-98.68375,90.0,bottom,D55,,D_SOD-123,D,smt,True
+92.272664,-98.68375,90.0,bottom,D56,,D_SOD-123,D,smt,True
+113.703914,-98.68375,90.0,bottom,D57,,D_SOD-123,D,smt,True
+137.516414,-98.68375,90.0,bottom,D58,,D_SOD-123,D,smt,True
+285.153914,-98.68375,90.0,bottom,D59,,D_SOD-123,D,smt,True
+159.006414,-37.61875,90.0,bottom,D6,,D_SOD-123,D,smt,True
+306.585164,-98.68375,90.0,bottom,D60,,D_SOD-123,D,smt,True
+328.016414,-98.68375,90.0,bottom,D61,,D_SOD-123,D,smt,True
+351.035164,-98.68375,90.0,bottom,D62,,D_SOD-123,D,smt,True
+373.566414,-96.8375,90.0,bottom,D63,,D_SOD-123,D,smt,True
+377.825,-96.8375,90.0,bottom,D64,,D_SOD-123,D,smt,True
+151.803914,-98.68375,90.0,bottom,D65,,D_SOD-123,D,smt,True
+172.441414,-98.68375,90.0,bottom,D66,,D_SOD-123,D,smt,True
+208.953914,-98.68375,90.0,bottom,D67,,D_SOD-123,D,smt,True
+229.591414,-98.68375,90.0,bottom,D68,,D_SOD-123,D,smt,True
+266.103914,-98.68375,90.0,bottom,D69,,D_SOD-123,D,smt,True
+178.056414,-37.61875,90.0,bottom,D7,,D_SOD-123,D,smt,True
+197.106414,-37.61875,90.0,bottom,D8,,D_SOD-123,D,smt,True
+216.156414,-37.61875,90.0,bottom,D9,,D_SOD-123,D,smt,True
+331.7,-53.25,90.0,bottom,J1,,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST SH 4p,smt,True
+42.266414,-37.565,0.0,top,MX1,,SW_MX_1u,F1,tht,False
+228.003914,-37.565,0.0,top,MX10,,SW_MX_1u,U,tht,False
+247.053914,-37.565,0.0,top,MX11,,SW_MX_1u,I,tht,False
+266.103914,-37.565,0.0,top,MX12,,SW_MX_1u,O,tht,False
+285.153914,-37.565,0.0,top,MX13,,SW_MX_1u,P,tht,False
+304.203914,-37.565,0.0,top,MX14,,SW_MX_1u,[,tht,False
+313.728914,-37.565,0.0,top,MX15,,SW_MX_1u,],tht,False
+323.253914,-37.565,0.0,top,MX16,,SW_MX_1u,BS,tht,False
+347.066414,-37.565,0.0,top,MX17,,SW_MX_1u,7,tht,False
+366.116414,-37.565,0.0,top,MX18,,SW_MX_1u,8,tht,False
+385.166414,-37.565,0.0,top,MX19,,SW_MX_1u,9,tht,False
+61.316414,-37.565,0.0,top,MX2,,SW_MX_1u,F5,tht,False
+42.266414,-56.615,0.0,top,MX20,,SW_MX_1u,F2,tht,False
+61.316414,-56.615,0.0,top,MX21,,SW_MX_1u,F6,tht,False
+92.272664,-56.615,0.0,top,MX22,,SW_MX_1.75u,CL,tht,False
+118.466414,-56.615,0.0,top,MX23,,SW_MX_1u,A,tht,False
+137.516414,-56.615,0.0,top,MX24,,SW_MX_1u,S,tht,False
+156.566414,-56.615,0.0,top,MX25,,SW_MX_1u,D,tht,False
+175.616414,-56.615,0.0,top,MX26,,SW_MX_1u,F,tht,False
+194.666414,-56.615,0.0,top,MX27,,SW_MX_1u,G,tht,False
+213.716414,-56.615,0.0,top,MX28,,SW_MX_1u,H,tht,False
+232.766414,-56.615,0.0,top,MX29,,SW_MX_1u,J,tht,False
+89.891414,-37.565,0.0,top,MX3,,SW_MX_1.5u,TAB,tht,False
+251.816414,-56.615,0.0,top,MX30,,SW_MX_1u,K,tht,False
+270.866414,-56.615,0.0,top,MX31,,SW_MX_1u,L,tht,False
+289.916414,-56.615,0.0,top,MX32,,SW_MX_1u,;,tht,False
+316.110164,-56.615,0.0,top,MX33,,SW_MX_1.75u,Enter,tht,False
+347.066414,-56.615,0.0,top,MX34,,SW_MX_1u,4,tht,False
+366.116414,-56.615,0.0,top,MX35,,SW_MX_1u,5,tht,False
+385.166414,-56.615,0.0,top,MX36,,SW_MX_1u,6,tht,False
+42.266414,-75.665,0.0,top,MX37,,SW_MX_1u,F3,tht,False
+61.316414,-75.665,0.0,top,MX38,,SW_MX_1u,F7,tht,False
+97.035164,-75.665,0.0,top,MX39,,SW_MX_1u,LS,tht,False
+113.703914,-37.565,0.0,top,MX4,,SW_MX_1u,Q,tht,False
+127.991414,-75.665,0.0,top,MX40,,SW_MX_1u,Z,tht,False
+147.041414,-75.665,0.0,top,MX41,,SW_MX_1u,X,tht,False
+166.091414,-75.665,0.0,top,MX42,,SW_MX_1u,C,tht,False
+185.141414,-75.665,0.0,top,MX43,,SW_MX_1u,V,tht,False
+204.191414,-75.665,0.0,top,MX44,,SW_MX_1u,B,tht,False
+223.241414,-75.665,0.0,top,MX45,,SW_MX_1u,N,tht,False
+242.291414,-75.665,0.0,top,MX46,,SW_MX_1u,M,tht,False
+261.341414,-75.665,0.0,top,MX47,,SW_MX_1u,.,tht,False
+280.391414,-75.665,0.0,top,MX48,,SW_MX_1u,",",tht,False
+299.441414,-75.665,0.0,top,MX49,,SW_MX_1u,/,tht,False
+132.753914,-37.565,0.0,top,MX5,,SW_MX_1u,W,tht,False
+320.872664,-75.665,0.0,top,MX50,,SW_MX_1.25u,Shift 1.25,tht,False
+311.347664,-75.665,0.0,top,MX51,,SW_MX_1u,Shift 2.25u,tht,False
+347.066414,-75.665,0.0,top,MX52,,SW_MX_1u,1,tht,False
+366.116414,-75.665,0.0,top,MX53,,SW_MX_1u,2,tht,False
+385.166414,-75.665,0.0,top,MX54,,SW_MX_1u,3,tht,False
+42.266414,-94.715,0.0,top,MX55,,SW_MX_1u,F4,tht,False
+61.316414,-94.715,0.0,top,MX56,,SW_MX_1u,F8,tht,False
+85.128914,-94.715,0.0,top,MX57,,SW_MX_1u,CTRL 1u,tht,False
+106.560164,-94.715,0.0,top,MX58,,SW_MX_1.25u,GUI 1.25u,tht,False
+127.991414,-94.715,0.0,top,MX59,,SW_MX_1u,1u alt,tht,False
+151.803914,-37.565,0.0,top,MX6,,SW_MX_1u,E,tht,False
+280.391414,-94.715,0.0,top,MX60,,SW_MX_1u,alt 1u,tht,False
+301.822664,-94.715,0.0,top,MX61,,SW_MX_1.25u,GUI 1.25u,tht,False
+323.253914,-94.715,0.0,top,MX62,,SW_MX_1u,1u ctrl,tht,False
+347.066414,-94.715,0.0,top,MX63,,SW_MX_1u,0,tht,False
+356.591414,-94.715,0.0,top,MX64,,SW_MX_1u,2u 0,tht,False
+366.116414,-94.715,0.0,top,MX65,,SW_MX_1u,.,tht,False
+385.166414,-94.715,0.0,top,MX66,,SW_MX_1u,.,tht,False
+275.628914,-94.715,0.0,top,MX67,,SW_MX_1.5u,alt 1.50u,tht,False
+299.441414,-94.715,0.0,top,MX68,,SW_MX_1u,GUI 1u,tht,False
+320.872664,-94.715,0.0,top,MX69,,SW_MX_1.25u,1.25 ctrl,tht,False
+170.853914,-37.565,0.0,top,MX7,,SW_MX_1u,R,tht,False
+87.510164,-94.715,0.0,top,MX70,,SW_MX_1.25u,CTRL 1.25u,tht,False
+108.941414,-94.715,0.0,top,MX71,,SW_MX_1u,GUI 1u,tht,False
+132.753914,-94.715,0.0,top,MX72,,SW_MX_1.5u,1.5u alt,tht,False
+147.041414,-94.715,0.0,top,MX73,,SW_MX_1u,L 1u split sb,tht,False
+177.997664,-94.715,0.0,top,MX74,,SW_MX_1u,S 7u 2.25,tht,False
+204.191414,-94.715,0.0,top,MX75,,SW_MX_1u,7u & centered 6u,tht,False
+225.622664,-94.715,0.0,top,MX76,,SW_MX_1u,S 7u 2.75,tht,False
+261.341414,-94.715,0.0,top,MX77,,SW_MX_1u,R 1u split sb,tht,False
+168.472664,-94.715,0.0,top,MX78,,SW_MX_1u,S 6u 2.25,tht,False
+199.428914,-94.715,0.0,top,MX79,,SW_MX_1u,1u 6u split,tht,False
+189.903914,-37.565,0.0,top,MX8,,SW_MX_1u,T,tht,False
+235.147664,-94.715,0.0,top,MX80,,SW_MX_1u,S 6u 2.25,tht,False
+87.510164,-56.615,0.0,top,MX81,,SW_MX_1.25u,CL,tht,False
+208.953914,-37.565,0.0,top,MX9,,SW_MX_1u,Y,tht,False
+339.085041,-68.464958,180.0,bottom,R1,,R_0603_1608Metric,10k,smt,True
+313.728914,-37.565,0.0,top,S1,,STAB_MX_2u,2u,tht,False
+204.191414,-94.715,180.0,top,S10,,STAB_MX_6u,6u,tht,False
+177.997664,-94.715,180.0,top,S11,,STAB_MX_2.25u,2.25,tht,False
+168.472664,-94.715,180.0,top,S12,,STAB_MX_2.25u,2.25,tht,False
+356.591414,-94.715,180.0,top,S2,,STAB_MX_2u,2u,tht,False
+311.347664,-75.665,0.0,top,S3,,STAB_MX_2.25u,2.25,tht,False
+235.147664,-94.715,180.0,top,S5,,STAB_MX_2.75u,2.75,tht,False
+97.035164,-75.665,0.0,top,S7,,STAB_MX_2.25u,2.25,tht,False
+225.622664,-94.715,180.0,top,S8,,STAB_MX_2.75u,2.75,tht,False
+204.191414,-94.715,180.0,top,S9,,STAB_MX_7u,7u,tht,False
+337.35,-85.05,90.0,bottom,SW1,,SW_SPST_TL3342,RST,smt,True
+337.345102,-75.982848,-90.0,bottom,SW2,,SW_SPST_TL3342,BOOT,smt,True
+334.0951,-63.945348,90.0,bottom,U1,,LQFP-48_7x7mm_P0.5mm,STM32F072CBTx,smt,True
+338.07,-52.71,180.0,bottom,U2,,SOT-23-3,XC6206PxxxMR,smt,True
