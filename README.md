@@ -1,12 +1,12 @@
 <div align=center>
-  <img src="https://github.com/setsooner/spell40/blob/main/images/aaaaaaaaaaaaaa-removebg-preview-1.png" width=300>
+  <img src="https://github.com/setsooner/spell40/blob/main/images/aaaaaaaaaaaaaa-removebg-preview-1.png" width=200>
 </div>
 
 ---
 
 <h4 align="center">A megumin themed 40% (but not really) keyboard.</h4>
 <div align="center">
-  <img src='https://github.com/setsooner/spell40/blob/main/images/Spell-Test-3.png' border='0' alt='Spell-Test-3' width='850'/>
+  <img src='https://github.com/setsooner/spell40/blob/main/images/Spell-Test-3.png' border='0' alt='Spell-Test-3' width='750'/>
 </div>
 
 
