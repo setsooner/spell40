@@ -13,7 +13,7 @@
 ## Intro
 hello! spell40 is a 40% keyboard with a layout reminiscent of the W1-AT. It was designed by me and my friend binb0y of mkh. The board utlizes tadpole + gummy oring mounts, and a 6.2deg typing angle. The engravings (and general design, to an extent) are inspired by konosuba! character megumin. The layout is inspired by both the W1-AT, as well as the mkh studio bully. We took the numpad and xt from the W1 and attached it to the 13.5u width of the bully, with completely different bottom row support. The board should be compatible with the majority of base kits, given it includes the numpad. 
 
-As of time of writing, case prototype is ordered. PCB prototypes have arrived and tested to be fully functional.
+As of time of writing, prototype 1 has been received, and faults in the design have been found and remedied. A second prototype run is in the works. Hotswap pcb is basically done, but I will not be posting it until I've verified it works.
 
 ## Required Components
 * Daughterboard
