@@ -23,7 +23,7 @@ As of time of writing, prototype 1 has been received, and faults in the design h
   * [Tadpoles](https://geon.works/products/tadpole)
   * [Where we're getting our o-ring](https://www.polymax.co.uk/o-rings/rubber-silicone-o-rings/)
 * Screws
-  * Case screws are M3x8mm, daughterboard screws are M2x4mm.
+  * Case screws are M2x8mm, daughterboard screws are M2x4mm.
 * PCB
   * TODO: put text here.
 * Case Feet
