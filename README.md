@@ -19,7 +19,7 @@ As of time of writing, prototype 1 has been received, and faults in the design h
 * Daughterboard
   * spell is designed to use any C series daughterboard, but the 3D model of [this](https://github.com/Unified-Daughterboard/UDB-C-JSH) was what I used while modeling.
 * Mounting
-  * spell mounts with either 9 GEON tadpoles, or with an o-ring. O-ring specs are 3.5mm CS x 200m ID. O-ring has yet to be tested, but it should fit by my calculations. 
+  * spell mounts with either 9 GEON tadpoles, or with an o-ring. O-ring specs are 3.5mm CS x 200m ID. O-ring of 192mm has been tested and verified to work. TKL orings also work.
   * [Tadpoles](https://geon.works/products/tadpole)
   * [Where we're getting our o-ring](https://www.polymax.co.uk/o-rings/rubber-silicone-o-rings/)
 * Screws
